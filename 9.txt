@@ -1,0 +1,17 @@
+In JavaScript, there are several data types used to store values. These can be broadly categorized into primitive and non-primitive types.
+
+1. Primitive Data Types (immutable) : These are simple values, and they are directly assigned to variables.
+
+Number: Represents both integer and floating-point numbers.
+String: Represents a sequence of characters (text).
+Boolean: Represents a value of true or false.
+Undefined: A variable that has been declared but not assigned a value.
+Null: Represents the intentional absence of any value or object.
+Symbol: Represents a unique and immutable value, often used as object property keys.
+BigInt: Represents large integers (greater than 2^53 - 1).
+
+2. Non-Primitive Data Type (objects, mutable) : These are more complex types and can hold collections of data.
+
+Object: A collection of key-value pairs, where keys are strings (or Symbols) and values can be any data type.
+Array: An ordered collection of values.
+Function: A block of reusable code that performs a specific task.

@@ -1,0 +1,16 @@
+In Bootstrap, containers are used to create a fixed-width or full-width layout. They play a key role in setting the overall layout structure of a webpage. Bootstrap offers three types of containers:
+
+1) .container:
+
+->A fixed-width container that provides a responsive, fixed-width layout at each breakpoint.
+->It automatically adjusts its width based on the viewport size.
+
+2) .container-fluid:
+
+->A full-width container that spans the entire width of the viewport, regardless of screen size.
+->It does not have any max-width limitation and stretches across the screen.
+
+3) .container-{breakpoint}:
+
+->These containers are responsive and adjust their width based on specific breakpoints (screen sizes).
+->They provide a container with a max-width based on the screen size. The available breakpoints are: sm, md, lg, xl, and xxl.

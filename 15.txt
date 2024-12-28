@@ -1,0 +1,9 @@
+Text Formatting: <b>, <i>, <u>, <em>, <strong>.
+Paragraphs: <p>, <br>.
+Headings: <h1>, <h2>, <h3>, ..., <h6>.
+Lists: <ul>, <ol>, <li>.
+Links: <a>.
+Images: <img>.
+Alignment: <center>, CSS for modern centering.
+Preformatted Text & Code: <pre>, <code>.
+Comments: <!-- -->.

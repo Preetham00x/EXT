@@ -1,0 +1,5 @@
+1. Universal Selector (*) - Selects all elements in the document.
+2. Type Selector (Element Selector) - Selects all elements of a specific type (e.g., all <p> tags).
+3. Class Selector (.) - Selects all elements with a specific class attribute.
+4. ID Selector (#) - Selects an element with a specific id attribute (unique).
+5. Pseudo-classes (:) - Selects elements in a specific state (e.g., when a link is hovered).
